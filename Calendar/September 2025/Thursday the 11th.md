@@ -1,7 +1,5 @@
----
-dg-publish: true
----
 #Day 
+
 ### Monologue for stage plan
 (The aforementioned stage plan can be found in my Physical Portfolio, or alternatively [[here]])
 

@@ -1,4 +1,5 @@
 #Day
+
 ### What is improvisation?
 Improvisation is engaging in an activity that is not preplanned or prepared. There is spontaneity and freedom in the approach, allowing the activity to develop naturally without constraints.
 

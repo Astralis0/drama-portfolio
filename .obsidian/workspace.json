@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Calendar/September 2025/September 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "September 2025"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/September 2025/September 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for September 2025"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/September 2025/September 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from September 2025"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calendar/September 2025/September 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of September 2025"
             }
           },
           {
@@ -153,16 +156,20 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Calendar/September 2025/September 2025.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,59 +181,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "floating": {
-    "id": "2883dd6fba951a03",
-    "type": "floating",
-    "children": [
-      {
-        "id": "880f1853bc3e7a26",
-        "type": "window",
-        "children": [
-          {
-            "id": "0da202980ed9de57",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8b88934f074fb8c1",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Authentication",
-                    "title": "Authentication - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Authentication - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 767,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "8b88934f074fb8c1",
+  "active": "6f7aed771d84662d",
   "lastOpenFiles": [
     "README.md",
-    "Home.md",
-    "Calendar/September 2025/{}September 2025.md",
-    "Calendar/September 2025/Wednesday the 17th.md",
+    "Index.md",
     "Calendar/September 2025/Monday the 8th.md",
     "Calendar/September 2025/Monday the 15th.md",
     "Calendar/September 2025/Thursday the 11th.md",
     "Calendar/September 2025/Wednesday the 3rd.md",
+    "Calendar/September 2025/Wednesday the 17th.md",
     "Calendar/Calendar.md",
+    "Calendar/September 2025/September 2025.md",
+    "Calendar/September 2025/September 2025 Calendar.md",
+    "Calendar/September 2025/September 2025 Calendar.canvas",
+    "September 2025 Calendar 1.canvas",
+    "Untitled.base",
+    "Untitled.md",
     "Calendar",
     "Calendar/September 2025",
     "Drama, Film and Theatre Portfolio/README.md",
