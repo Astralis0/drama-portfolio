@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Home"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of Home"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Index.md"
+                "file": "Home.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -187,20 +187,21 @@
   },
   "active": "6f7aed771d84662d",
   "lastOpenFiles": [
-    "Calendar/Calendar.md",
+    "sync.bat.md",
+    "sync.bat",
+    "Home.md",
     "Calendar/September 2025/September 2025.md",
-    "README.md",
-    "Index.md",
-    "Calendar/September 2025/Monday the 8th.md",
-    "Calendar/September 2025/Monday the 15th.md",
+    "Calendar/September 2025/Wednesday the 17th.md",
     "Calendar/September 2025/Thursday the 11th.md",
     "Calendar/September 2025/Wednesday the 3rd.md",
-    "Calendar/September 2025/Wednesday the 17th.md",
+    "Calendar/September 2025/Monday the 8th.md",
+    "Calendar/September 2025/Monday the 15th.md",
+    "README.md",
+    "Calendar/Calendar.md",
     "Calendar/September 2025/September 2025 Calendar.md",
     "Calendar/September 2025/September 2025 Calendar.canvas",
     "September 2025 Calendar 1.canvas",
     "Untitled.base",
-    "Untitled.md",
     "Calendar",
     "Calendar/September 2025",
     "Drama, Film and Theatre Portfolio/README.md",
